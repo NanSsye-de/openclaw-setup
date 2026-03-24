@@ -56,3 +56,16 @@ sessions_spawn(
 - 记忆系统与长期上下文管理
 - 语音与微信消息链路
 - Skill 工程化与复用
+
+## 公开 Skill 仓库
+
+NanSsye-de 将以下 Skill 整理为独立开源仓库，可直接安装使用：
+
+| 仓库 | 说明 |
+|------|------|
+| [`NanSsye-de/skill-creator`](https://github.com/NanSsye-de/skill-creator) | OpenClaw Skill 开发工程化指南，从构思到发布的完整工作流 |
+| [`NanSsye-de/news-aggregator-skill`](https://github.com/NanSsye-de/news-aggregator-skill) | 28源新闻聚合Skill（Hacker News / GitHub / 微信公众号 / 微博等） |
+| [`NanSsye-de/jayson-wx-sum`](https://github.com/NanSsye-de/jayson-wx-sum) | 微信公众号文章抓取摘要，无需浏览器/Playwright |
+| [`NanSsye-de/amap-maps`](https://github.com/NanSsye-de/amap-maps) | 高德地图MCP插件（路径规划/地理编码/天气查询） |
+
+> 更多仓库整理中，完整列表见 [NanSsye-de 所有公开仓库](https://github.com/NanSsye-de?tab=repositories)
